@@ -7,7 +7,10 @@ Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com).
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> This content is in beta stage: expect some typos, glitches and mistakes. Feel free to correct them!
+<blockquote>
+<p dir="rtl">
+ هذا المحتوى في مرحلة تجريبية: نتوقع بعض الأخطاء عند الرقن. لا تتردد في إصلاحها !
+</blockquote>
 
 <h2 dir="rtl">نظرة عامة</h2>
 
