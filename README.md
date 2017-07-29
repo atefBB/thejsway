@@ -1,6 +1,6 @@
-# The JavaScript Way
+<h1 dir="rtl">طريقة جافاسكريبت</h1>
 
-A modern introduction to an essential language.
+<p dir="rtl">مقدمة عصرية للغة أساسية</p>
 
 Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com).
 
@@ -9,7 +9,7 @@ Copyright © 2017 [Baptiste Pesquet](http://bpesquet.com).
 
 > This content is in beta stage: expect some typos, glitches and mistakes. Feel free to correct them!
 
-## Overview
+<h2 dir="rtl">نظرة عامة</h2>
 
 This book aims to be a useful companion for anyone wishing to (re)discover the many facets of JavaScript. Numerous brain cycles were spent to make it:
 
